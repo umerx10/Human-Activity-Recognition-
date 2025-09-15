@@ -51,16 +51,6 @@ Each sample consists of **time-series motion signals**, segmented into windows t
 
 ---
 
-### Visual Comparison
-
-**Accuracy Comparison**  
-![Accuracy Comparison](2cd9f4d2-9110-4c26-92db-52dd4102309f.png)
-
-**F1-Score Comparison (placeholder – generate similar chart if needed)**  
-*(Add chart here if available)*
-
----
-
 ## Analysis
 - **CNN achieved the best performance** across all metrics (**Accuracy = 94%**).  
   - Effectively captured local signal variations.  
@@ -85,5 +75,3 @@ Each sample consists of **time-series motion signals**, segmented into windows t
   - **Rehabilitation systems**  
 
 ---
-
-## 📂 Project Structure
